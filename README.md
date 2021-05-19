@@ -6,4 +6,6 @@ Aplicação feita para resolução de um desafio proposto por um colega meu que 
 -  Um botão "remover";
 -  Ao clicar no botão inserir o texto deve ser inserido;
 -  A lista com os textos deve persistir entre carregamentos da página;
--  Ao clicar em um item da lista deve se dar a opção de removê-lo;
+-  Ao clicar e`enter code here`m um item da lista deve se dar a opção de removê-lo;
+
+[Visualizar aplicação](https://desafio-memorizador.herokuapp.com)
